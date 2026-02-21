@@ -45,7 +45,7 @@ lucknow-trip-planner-openai/
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/lucknow-trip-planner-openai.git
+git clone https://github.com/AdarshProM/lucknow-trip-planner-openai.git
 cd lucknow-trip-planner-openai
 
 Step 2: Install Dependencies
